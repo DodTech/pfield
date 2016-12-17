@@ -277,8 +277,3 @@ int pfield_move(pfield *pf, float q[], const float step)
 
     return 0;
 }
-
-int pfield_trapped(pfield *pf, float q[], const float step)
-{
-    return 0;
-}
